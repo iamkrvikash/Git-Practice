@@ -8,3 +8,5 @@ e
 y
 z
 >>>>>>> wrong_branch
+new line added
+
