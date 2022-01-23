@@ -1,10 +1,7 @@
 a
 b
 c
-<<<<<<< HEAD
 d
 e
-=======
 y
 z
->>>>>>> wrong_branch
